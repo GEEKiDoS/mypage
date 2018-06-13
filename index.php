@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <meta property="og:audio" content="http://geekidos-wordpress.herokuapp.com/mainmenu.mp3.mp3">
-    <meta property="og:audio:secure_url" content="https://geekidos-wordpress.herokuapp.com/mainmenu.mp3.mp3">
+    <meta property="og:audio" content="http://geekidos-wordpress.herokuapp.com/mainmenu.mp3">
+    <meta property="og:audio:secure_url" content="https://geekidos-wordpress.herokuapp.com/mainmenu.mp3">
     <meta property="og:audio:type" content="audio/mpeg">
     <meta property="og:url" content="https://baidu.com">
     <meta property="og:site_name" content="Baidu">
@@ -18,6 +18,6 @@
     <title>test</title>
 </head>
 <body>
-    <audio src="mainmenu.mp3.mp3"></audio>
+    <audio controls autoplay src="mainmenu.mp3"></audio>
 </body>
 </html>
